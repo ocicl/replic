@@ -1,0 +1,10 @@
+* replic
+
+Build a terminal application in no time from an existing library.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/vindarel/replic.git   |
+| commit  | 23962f9  |
+| systems | replic |
+|---------+-------------------------------------------|
+
